@@ -271,7 +271,7 @@ button, input {
 
 /*===== Home Section =====*/
 .home {
-   background: url('.\assets\img\forabout.jpg');
+   
    background-size: 300px auto;
    background-position: center center;
    height: 100vh;
@@ -332,9 +332,13 @@ button, input {
 }
 
 .home__img{
-    display: none;
-    width: 250px;
-    height: 250px;
+    /* display: none; */
+    width: 350px;
+    height: 350px;
+}
+.outline-view{
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .home__title{
