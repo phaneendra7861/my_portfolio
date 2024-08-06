@@ -271,7 +271,7 @@ button, input {
 
 /*===== Home Section =====*/
 .home {
-   background: url('C:/Users/samba/OneDrive/Desktop/phani-portfolio/phaneendra portfolio website/assets/img/forabout.jpg');
+   background: url('.\assets\img\forabout.jpg');
    background-size: 300px auto;
    background-position: center center;
    height: 100vh;
